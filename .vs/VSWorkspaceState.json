@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\middleware",
     "\\models"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\middleware\\auth.js",
   "PreviewInSolutionExplorer": false
 }
